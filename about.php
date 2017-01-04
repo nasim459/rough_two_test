@@ -14,7 +14,7 @@
 					<p>TEST CTCBD is a new online platform for software testers to meet with peers, access thought-leading content and
 						 to share and discuss their views on any aspect of software testing.
 					</p>
-					<p>As you know we are constantly trying to improve the TEST CTCBD to make it a better place for you as 
+					<p>We are in gitHub As you know we are constantly trying to improve the TEST CTCBD to make it a better place for you as 
 						a community member. We have taken the next step in this process. Moderation is a essential part of any online 
 						community. The moderators keep threads on topic, encourage interaction and monitor unwanted community activity  and 
 						that members adhere to the community guidelines.  It is important to have someone moderating who is both experienced 
